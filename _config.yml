@@ -3,3 +3,4 @@ description: Personal website of Evan Welsh
 author: Evan Welsh
 url: evanwelsh.com
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
