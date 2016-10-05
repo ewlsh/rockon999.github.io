@@ -9,3 +9,11 @@ h1 {
 .social-media-icon {
     font-size: 1.75em !important;
 }
+
+.icon-link {
+    margin-right: 3px;
+}
+
+.icon-link-a {
+    margin-right: 5px;
+}
