@@ -47,13 +47,13 @@ body {
  height: 20%;
  width: 100%;
  }
- 
+
 .social-media ul {
     padding: 0;
       display: inline-block;
 }
 
-.social-media li {
+.no-touch .social-media li {
     overflow: hidden;
     background: #fff;
     list-style: none;
@@ -62,7 +62,7 @@ body {
     border-radius: 25px;
     display: inline-block;
 }
-   .social-media  li a {
+  .no-touch  .social-media  li a {
         opacity: 0;
         color: #666;
         max-width: 0;
@@ -70,16 +70,16 @@ body {
         text-decoration: none;
         transition: max-width 1s ease-out .1s, opacity 1s ease-out .1s, color;
     }
-       .social-media  li a:hover {
+      .no-touch  .social-media  li a:hover {
             color: #c33;
         }
-       .social-media  li a i {
+      .no-touch  .social-media  li a i {
             float:right;
             display: block;
             padding-right: 1em;
             font:1em/1 'rokkitt', sans-serif;
         }
-   .social-media  li .social-media-icon {
+  .no-touch  .social-media  li .social-media-icon {
         color: #c33;
         line-height:1;
         font-size: 25px;
@@ -90,7 +90,7 @@ body {
         padding-right: .2em;
     }
 
-.social-media  li:hover a {
+.no-touch .social-media  li:hover a {
             opacity: 1;
             max-width: 150px;
             transition: max-width 1s ease-out .1s, opacity 1s ease-out .1s, color .2s;
