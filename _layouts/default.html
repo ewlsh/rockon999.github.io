@@ -12,9 +12,9 @@
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <!-- Place favicon.ico in the root directory -->
 
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
-    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <script src="/js/vendor/modernizr-2.8.3.min.js"></script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
         crossorigin="anonymous">
@@ -24,7 +24,7 @@
 
 <body>
     <header class="header-container">
-        <h1 class="website-title">Evan Welsh</h1>
+        <h1 class="website-title"><a href="/">evan welsh</a></h1>
         <h3 class="website-subtitle">Developer. Designer. Nerd.</h3>
         <div class="social-media">
             <ul>
@@ -36,6 +36,37 @@
                     <i class="social-media-icon fa fa-github icon-link"></i>
                     <a href="http://github.com/rockon999/" class="icon-link-a"><i>github</i></a>
                 </li>
+            </ul>
+        </div>
+        <div class="site-navigation">
+                <div>            
+                    {% if page.url == "/" %}  
+                    <a href="/" class="selected-navigation-link navigation-link">Home</a>
+               {% else %}
+               <a href="/" class="navigation-link">Home</a>
+               {% endif %}
+                </div>
+                <div>             
+                   {% if page.url == "/blog/" %}  
+                    <a href="/blog/" class="selected-navigation-link navigation-link">Blog</a>
+               {% else %}
+               <a href="/blog/" class="navigation-link">Blog</a>
+               {% endif %}
+                </div>
+                <div>             
+                     {% if page.url == "/projects" %}  
+                    <a href="/projects" class="selected-navigation-link navigation-link">Projects</a>
+               {% else %}
+               <a href="/projects" class="navigation-link">Projects</a>
+               {% endif %}
+                </div>
+                <div>
+                     {% if page.url == "/about" %}  
+                    <a href="/about" class="selected-navigation-link navigation-link">About</a>
+               {% else %}
+               <a href="/about" class="navigation-link">About</a>
+               {% endif %}
+                </div>
             </ul>
         </div>
     </header>
@@ -50,8 +81,8 @@
 </body>
 
 <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-<script src="js/plugins.js"></script>
-<script src="js/main.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+<script src="/js/plugins.js"></script>
+<script src="/js/main.js"></script>
 
 </html>

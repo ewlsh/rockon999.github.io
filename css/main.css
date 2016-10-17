@@ -10,15 +10,57 @@ body {
     font-family: 'cantarell', 'sans-serif';
 }
 
+.site-navigation {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 20%;
+    padding-bottom: 2.5%;
+}
+
+.site-navigation div {
+  font-family: 'Open Sans', 'sans-serif';
+  font-size: 2.5rem;
+  
+}
+
+.navigation-link {
+    padding-left: 10%;
+    padding-right: 10%;
+        text-decoration: none;
+    color: #444;
+}
+
+.navigation-link:hover {
+    text-decoration: none;
+    color: #999;
+}
+
+.selected-navigation-link:hover {
+    text-decoration: underline;
+}
+
+.selected-navigation-link {
+    text-decoration: underline;
+}
+
 .website-title, .website-subtitle {
     margin: 0;
     text-align: center;
 }
 
+.website-title  a:hover {
+     color: #999;
+     text-decoration:none;
+}
+.website-title  a {
+     color: #444;
+     text-decoration:none;
+}
+
 .website-title {
   
         font-family: 'Open Sans', 'sans-serif';
-        padding-top: 1%;
+        padding-top: 5%;
     font-weight: 700;
     font-size: 4.5rem;
     color: #444;
@@ -33,7 +75,7 @@ body {
 }
 
 .social-media {
-    padding-bottom: 1%;
+     padding-bottom: 2.5%;
     text-align: center;
 }
 

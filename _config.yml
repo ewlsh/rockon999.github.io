@@ -4,3 +4,5 @@ author: Evan Welsh
 url: evanwelsh.com
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+paginate_path: /blog/:num/
+paginate: 5
