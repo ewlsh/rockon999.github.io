@@ -10,4 +10,4 @@ September has been an exciting month of reading with my AP Literature class read
 
 *Guns, Germs, & Steel* captivated me from the beginning. Offering an excellent critique of western history and how it degrades the accomplishments of non-European peoples. Its discussion on New Guinea and the dozens of native languages was fascinating. The book thoroughly investigates the fate of the small region and how it came to conquered. Interestingly, the answer all comes down to fate. They didn't have as many domesticable plants as other  regions such as Europe and Asia did and as a result had difficulty expanding their civilization.
 
-My other reads were fun, with exceptions. My largest annoyance with Rick Riordan's writings is his tendency to force current technology trends into his writing. References to SnapChat and iPhones about, I wonder how this novel can be read a decade from now.
+My other reads were fun, with exceptions. My largest annoyance with Rick Riordan's writings is his tendency to force current technology trends into his writing. References to SnapChat and iPhones abound, I wonder how this novel can be read a decade from now.
