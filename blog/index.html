@@ -4,18 +4,24 @@ title: Evan's Blog
 ---
 
 <!-- This loops through the paginated posts -->
+
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+<div class="blog-post">
+  <!--<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   
   <div class="content">
     {{ post.content }}
-  </div>
+  </div>-->
+
+  {% include post_snippet.html %}
 
   <p class="author">
     <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
   </p>
+</div>
 {% endfor %}
 
+  
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
