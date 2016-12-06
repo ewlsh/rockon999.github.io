@@ -7,32 +7,23 @@ title: Evan's Blog
 
 {% for post in paginator.posts %}
 <div class="blog-post">
-  <!--<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  
-  <div class="content">
-    {{ post.content }}
-  </div>-->
   <br>
   {% include post_snippet.html %}
-
-  <!--<p class="author">
-    <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-  </p>-->
 </div>
 {% endfor %}
 
+<br>
+
   
 <!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
-  {% if paginator.total_pages > 1 %}
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
     {% endif %}
-    {% endif %}
     <span class="page-number ">Page {{ paginator.page }} {% if paginator.total_pages > 1 %} of {{ paginator.total_pages }} {% endif %}</span>
-    {% if paginator.total_pages > 1 %}
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% endif %}
-  {% endif %}
 </div>
+{% endif %}

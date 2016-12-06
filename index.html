@@ -3,23 +3,20 @@ layout: default
 title: Evan Welsh
 ---
 <div class="container-fluid">
-    <h1>Blog</h1>
+    <h1 class="content-header">What's New?</h1>
 
     {% for post in site.posts limit:1 %}
 {% include post_snippet.html %}
 {% endfor %}
 
-    <div class="pagination">
-        <a class="small-button-link" href="{{ relative }}/blog/index.html">Go to blog...</a>
-    </div>
 </ul>
 
-    <h1>Projects</h1>
+    <h1 class="content-header">Projects...</h1>
     {% include projects_snippet.html %}
     <div class="row">
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <img src="/dpt-logo-crop.png" alt="...">
+                <img src="/images/dpt-logo-crop.png" alt="...">
                 <div class="caption">
                     <h3>Dynamic Panel Transparency</h3>
                     <p>...</p>
@@ -30,7 +27,7 @@ title: Evan Welsh
         </div>
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <img src="/air.png" alt="...">
+                <img src="/images/air.png" alt="...">
                 <div class="caption">
                     <h3>Regular App Icons</h3>
                     <p>...</p>
@@ -41,7 +38,7 @@ title: Evan Welsh
         </div>
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
-                <img src="/coming-soon.jpg" alt="...">
+                <img src="/images/coming-soon.jpg" alt="...">
                 <div class="caption">
                     <h3>Extender</h3>
                     <p>...</p>
