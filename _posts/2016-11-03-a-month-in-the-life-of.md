@@ -16,7 +16,7 @@ If you'd like to see how these affect the overall industry... behold: [Also The 
 
 An interesting look into the future of Google's software: [Andromeda on xda](http://www.xda-developers.com/exploring-andromeda-a-look-at-the-challenges-awaiting-googles-next-voyage/)
 
-Along with Google, Apple also announced new products this month. Mainly, the new Macbook "Pro". To Apple's surprise its loving users did not follow the company like blind sheep and started a massive outcry. This is simply because the new Macbook "Pro" ads tacky consumer features, removes vital professional technology, and doesn't offer any major performance upgrades. With these issues in accounts professional Apple users have had the last straw. They have already been angry with Apple over the slow pace of upgrades, and to deliver late and in poor quality all but guarenteed revolt. For the first time in memorable history Apple has been forced to acquiese to their consumers... they slashed the prices on all the new cables and adapters required for the new machines in addition to offering significant discounts.
+Along with Google, Apple also announced new products this month. Mainly, the new Macbook "Pro". To Apple's surprise its loving users did not follow the company like blind sheep and they started a massive outcry. This is simply because the new Macbook "Pro" adds tacky consumer features, removes vital professional technology, and doesn't offer any major performance upgrades. Professional Apple users have had the last straw. They have already been angry with Apple over the slow pace of upgrades, and to deliver late and in poor quality all but guaranteed revolt. For the first time in memorable history Apple has been forced to acquiesce to their consumers... they slashed the prices on all the new cables and adapters required for the new machines in addition to offering significant discounts.
 
 More on that: [I have too many Verge articles](http://www.theverge.com/2016/10/28/13451832/microsoft-apple-hardware-videos-comparison)
 Also, the dongles: [Dongles](https://www.engadget.com/2016/11/04/apple-usb-c-adapters-cheaper-macbook-pro-but-not-for-long/)
@@ -32,7 +32,7 @@ A short tangential thought... HBO premiered "Westworld" a while back, and it is 
 
 More on [Ars Technica](http://arstechnica.com/the-multiverse/2016/10/decrypted-westworld-this-series-is-our-current-obsession/).
 
-My last technology-related article, is related to the giant outage of internet services in the United States this past month. If you have a WiFi-enabled Crockpot or a ethernet-wrapped hair curler you *need* to read this. The IoT (Internet of Things) is a burgeoning class of devices, but many manufacturers leave their devices easily hackable and easily corruptable. The outages of the past month can be attributes to a massive supply of rogue devices which simultaneosly attacks major websites such as Netflix.
+My last technology-related article, is related to the giant outage of internet services in the United States this past month. If you have a WiFi-enabled Crockpot or a ethernet-wrapped hair curler you *need* to read this. The IoT (Internet of Things) is a burgeoning class of devices, but many manufacturers leave their devices easily hackable and easily corruptible. The outages of the past month can be attributes to a massive supply of rogue devices which simultaneously attack major websites such as Netflix.
 
 [The Atlantic.](http://www.theatlantic.com/technology/archive/2016/10/when-the-entire-internet-seems-to-break-at-once/504956/)
 
