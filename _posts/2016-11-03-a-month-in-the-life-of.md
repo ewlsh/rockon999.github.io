@@ -4,7 +4,7 @@ title: "A Month in the Life of Me."
 date: 2016-11-03
 ---
 
-From Netflix to Donald Trump, October was a crazy month of reading for this high school senior. In leiu of a formal book review, I have decided to review the large swathes of the internet I have perused over the last month.
+From Netflix to Donald Trump, October was a crazy month of reading for this high school senior. In lieu of a formal book review, I have decided to review the large swathes of the internet I have perused over the last month.
 
 To begin, let's talk tech.
 
