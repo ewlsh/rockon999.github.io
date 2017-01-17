@@ -10,5 +10,5 @@ Every wonder about the sparse, scattered American Indian tribes the settlers enc
 
 *Dramatic Pause* 
 
-Read it (at the Atlantic)[http://www.theatlantic.com/magazine/archive/2002/03/1491/302445/].
+Read it [at the Atlantic](http://www.theatlantic.com/magazine/archive/2002/03/1491/302445/).
 
