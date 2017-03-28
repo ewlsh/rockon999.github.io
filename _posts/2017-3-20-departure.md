@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Departure."
-date: 2017-1-13
+date: 2017-3-20
 ---
 
 I had the pleasure of reading A.G. Riddle's *Departure* a few years ago when a preview edition was published and the recent secondary revised edition was just as enjoyable -- though I still prefer the original. I read the final published edition of *Departure* this month and enjoyed the wild science-fiction-themed plane-crashed-driven novel once again.
